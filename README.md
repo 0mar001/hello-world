@@ -1,2 +1,6 @@
 # hello-world
-First repository
+Hello peasants
+
+just ur random repository here
+
+Pizza>life
